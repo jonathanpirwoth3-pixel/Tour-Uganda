@@ -1,0 +1,48 @@
+body {
+  background-image: url("Homepage.png");
+  background-repeat: no-repeat;
+  margin: 0;
+  background-size: cover;
+  min-height: 1500px;
+}
+.Homeimages div {
+ position: absolute;
+  top: 1050px;
+  left: 10px;
+  display: flex;
+  gap: 30px;
+}
+.Homeimages img {
+  width: 480px;
+  height: 400px;
+  gap: 30px;
+}
+.HomeAccomodation div {
+  position: absolute;
+  left: 1000px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  top: 100px;
+}
+.HomeAccomodation img {
+  width: 480px;
+  height: 400px;
+  gap: 30px;
+}
+.searchbar {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+.searchbar input {
+  width: 500px;
+  height: 45px;
+  padding-left: 20px;
+  border-radius: 25px;
+  border: none;
+  font-size: 16px;
+}
