@@ -1,0 +1,163 @@
+body {
+    background: black;
+}
+.Logo {
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center;     /* Centers the image vertically */
+    margin-top: 50px;
+}
+.Logo img {
+    width: 660px;
+    height: 420px;
+}
+.Searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.Searchbar input {
+    border-radius: 30px;
+    width: 640px;
+    height: 40px;
+    font-size: 20px;
+    font-family: "Arial Black";
+}
+.districttitles {
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center;     /* Centers the image vertically */
+    margin-top: 20px;
+}
+.districttitles img {
+    width: 750px;
+    height: 370px;
+}
+bpdy {
+    background: black;
+}
+.Options {
+    display: flex;          /* Aligns all child elements in a horizontal row */
+    flex-direction: row;    /* Explicitly forces horizontal alignment */
+    justify-content: style; /* Distributes space evenly between images */
+    align-items: center;    /* Vertically aligns images if they have different heights */ /* Spans across the full container width */
+    gap: 300px;
+    left: 30px;
+    margin-top: 30px;/* Adds a clean space between your images */
+}
+.Options {
+    position: static;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5vw;
+    width: 100%;
+    margin-top: 30px;
+}
+.Options img {
+    width: 30vw;
+    height: 30vh;       /* Changed from 30vw to 30vh so it frames nicely on screens */
+    max-width: 360px;
+    max-height: 360px;
+    object-fit: cover;
+    border-radius: 180px; /* Smoothly rounds the corners of your card images */
+    border: 2px solid rgba(255, 255, 255, 0.1); /* Adds a clean, subtle border */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Sets up smooth animation */
+}
+.card {
+    text-align: center;
+    font-family: "Arial Black";
+    color: white;
+    font-size: 20px;
+}
+
+.card img {
+    width: 22vw;
+    height: 22vw;
+    max-width: 360px;
+    max-height: 360px;
+    object-fit: cover;
+}
+.EntebbeBackground {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.85)), url("../Districts/Entebbe/EntebbeBackground.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;        /* Removes standard browser whitespace around edges */
+}
+/* ==========================================
+   SIDE-BY-SIDE LISTING CARD
+   ========================================== */
+.listing-card {
+    display: flex;         /* Forces the image and text box to sit side-by-side */
+    flex-direction: row;   /* Aligns them horizontally in a row */
+    background-color: #1e1e1e; /* Dark card background to match your black theme */
+    border-radius: 16px;   /* Smoothly rounds the outer corners of the card */
+    overflow: hidden;      /* Makes sure the image clips to the rounded corners */
+    width: 85%;            /* Set the width of the card across the page */
+    margin: 30px auto;     /* Centers the card on your page layout */
+    border: 1px solid rgba(255, 255, 255, 0.1); /* Subtle premium outline */
+}
+
+/* Controls the Left Side Image */
+.listing-image {
+    width: 45%;            /* Forces the image to take up 45% of the card width */
+    height: 300px;         /* Standardized height so it doesn't stretch weirdly */
+    object-fit: cover;     /* Prevents stretching or distortion of your photo */
+}
+
+/* Controls the Right Side Text Content Box */
+.listing-info {
+    width: 55%;            /* Gives the text box the remaining 55% width space */
+    padding: 30px;         /* Generates clean breathing space around your texts */
+    display: flex;
+    flex-direction: column;/* Stacks your titles and paragraphs vertically */
+    justify-content: center;/* Vertically centers the text content next to the image */
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Styles for internal text elements to make them look sharp */
+.badge {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ff9900;        /* Gold badge coloring */
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    align-self: flex-start;/* Keeps the badge snug on the left side instead of stretching */
+    margin-bottom: 12px;
+}
+
+.listing-title {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+    font-family: "Arial Black", sans-serif;
+}
+
+.listing-description {
+    color: #b3b3b3;        /* Soft gray color so it's readable but not overly bright */
+    font-size: 15px;
+    line-height: 1.5;      /* Comfortable spacing between paragraphs */
+    margin-bottom: 20px;
+}
+
+.explore-btn {
+    background-color: #ff9900;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    align-self: flex-start;
+    transition: transform 0.2s ease;
+}
+
+.explore-btn:hover {
+    transform: scale(1.05); /* Slight grow effect when clicked or hovered */
+}
+
