@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="476e8bf8-6b09-4a22-a9a0-84ef438e268c" name="Changes" comment="ef" />
+    <list default="true" id="476e8bf8-6b09-4a22-a9a0-84ef438e268c" name="Changes" comment="ef">
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Amusment/Amusment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Amusment/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Geography/Geographical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Geography/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Wildlife/Wildlife.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Wildlife/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homepage/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/BestWesternPremier.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/BestWesternPremier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbe.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeAmusement.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/EntebbeAmusement.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeBackground.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/EntebbeBackground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeHotelsTitle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/EntebbeHotelsTitle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeWildlife.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/EntebbeWildlife.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbegeographical.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbegeographical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbehotel.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbehotel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Hotels.html" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/Hotels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/ImperialResortbeachHotel.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/ImperialResortbeachHotel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/LakeVictoriaGranada.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/LakeVictoriaGranada.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/ProteaHotel.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/ProteaHotel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homepage/Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage/Homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/Javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/Layout/Layout.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,6 +76,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -63,6 +91,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jonathan komoli\IdeaProjects\Tour-Uganda Website\Districts\Entebbe\Homepage" />
+      <recent name="C:\Users\jonathan komoli\IdeaProjects\Tour-Uganda Website\Districts\Entebbe\Wildlife" />
+      <recent name="C:\Users\jonathan komoli\IdeaProjects\Tour-Uganda Website\Districts\Entebbe\Hotels" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,11 +138,30 @@
       <option name="project" value="LOCAL" />
       <updated>1785766489446</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ef">
+      <option name="closed" value="true" />
+      <created>1785766672578</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785766672578</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="defg" />
