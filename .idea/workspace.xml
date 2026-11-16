@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="476e8bf8-6b09-4a22-a9a0-84ef438e268c" name="Changes" comment="ef">
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Amusment/Amusment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Amusment/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Geography/Geographical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Geography/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Wildlife/Wildlife.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Districts/Entebbe/Wildlife/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homepage/javascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/BestWesternPremier.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/BestWesternPremier.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbe.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeAmusement.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/EntebbeAmusement.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeBackground.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/EntebbeBackground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeHotelsTitle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/EntebbeHotelsTitle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/EntebbeWildlife.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/EntebbeWildlife.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbegeographical.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbegeographical.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Entebbehotel.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Homepage/Entebbehotel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Hotels.html" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/Hotels.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/ImperialResortbeachHotel.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/ImperialResortbeachHotel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/LakeVictoriaGranada.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/LakeVictoriaGranada.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/ProteaHotel.png" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/ProteaHotel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homepage/Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage/Homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/Javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Hotels/Hotels.html" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/Hotels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Hotels/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Hotels/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Districts/Entebbe/Wildlife/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/Districts/Entebbe/Wildlife/javascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/Layout/Layout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +77,57 @@
       <recent name="C:\Users\jonathan komoli\IdeaProjects\Tour-Uganda Website\Districts\Entebbe\Hotels" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Tour-Uganda Website" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Tour-Uganda Website" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Tour-Uganda Website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Tour-Uganda Website" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -146,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785766672578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ef">
+      <option name="closed" value="true" />
+      <created>1785987332206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1785987332206</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
