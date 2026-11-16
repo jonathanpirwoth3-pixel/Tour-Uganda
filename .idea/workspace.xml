@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="476e8bf8-6b09-4a22-a9a0-84ef438e268c" name="Changes" comment="ef">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +31,12 @@
     &quot;assignee&quot;: &quot;jonathanpirwoth3-pixel&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jonathanpirwoth3-pixel/Tour-UgandaWebsite123...___---.git&quot;,
-    &quot;accountId&quot;: &quot;fcee03be-f0a3-4acf-a567-4dc89727b095&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jonathanpirwoth3-pixel/Tour-Uganda.git",
+    "accountId": "fcee03be-f0a3-4acf-a567-4dc89727b095"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
   &quot;fromUser&quot;: false
@@ -197,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794866676794</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ef">
+      <option name="closed" value="true" />
+      <created>1794868124402</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1794868124402</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
