@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="476e8bf8-6b09-4a22-a9a0-84ef438e268c" name="Changes" comment="ef">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="476e8bf8-6b09-4a22-a9a0-84ef438e268c" name="Changes" comment="new website" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,65 @@
     "accountId": "fcee03be-f0a3-4acf-a567-4dc89727b095"
   }
 }]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000282478384306" />
+      <entry key="S5" value="1.0151493917707157" />
+      <entry key="S10" value="1.1234229393236304" />
+      <entry key="S30" value="1.6426075478244306" />
+      <entry key="S60" value="2.365215015469264" />
+      <entry key="M2" value="3.2468505155176284" />
+      <entry key="M5" value="4.148676580756221" />
+      <entry key="M10" value="4.544130549094638" />
+      <entry key="M15" value="4.688923865582094" />
+      <entry key="M30" value="4.840760562046336" />
+      <entry key="H1" value="4.919431764872827" />
+      <entry key="H2" value="4.959475792548935" />
+      <entry key="H4" value="4.9796774996096715" />
+      <entry key="D1" value="4.996604496223912" />
+      <entry key="W1" value="4.999514721400705" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1001592561167354E-4" />
+      <entry key="MS500" value="0.1615441038296865" />
+      <entry key="S2" value="0.6339988548544535" />
+      <entry key="S5" value="0.8472857642546379" />
+      <entry key="S10" value="1.03125224203819" />
+      <entry key="S30" value="1.6049049880831547" />
+      <entry key="S60" value="2.343201767678037" />
+      <entry key="M2" value="3.2341781794435733" />
+      <entry key="M5" value="4.1429634084905755" />
+      <entry key="M10" value="4.541135725759616" />
+      <entry key="M15" value="4.686893789482395" />
+      <entry key="M30" value="4.839727998928056" />
+      <entry key="H1" value="4.918910953296183" />
+      <entry key="H2" value="4.959214235121124" />
+      <entry key="H4" value="4.979546430559363" />
+      <entry key="D1" value="4.996582610850108" />
+      <entry key="W1" value="4.999511593923392" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
   &quot;fromUser&quot;: false
@@ -46,26 +103,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jonathan komoli\IdeaProjects\Tour-Uganda Website\Districts\Entebbe\Homepage" />
@@ -204,7 +261,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794868124402</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new website">
+      <option name="closed" value="true" />
+      <created>1794869084335</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1794869084335</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new website">
+      <option name="closed" value="true" />
+      <created>1794869234566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1794869234566</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +297,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="defg" />
     <MESSAGE value="ef" />
-    <option name="LAST_COMMIT_MESSAGE" value="ef" />
+    <MESSAGE value="new website" />
+    <option name="LAST_COMMIT_MESSAGE" value="new website" />
   </component>
 </project>
